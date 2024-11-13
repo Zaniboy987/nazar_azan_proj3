@@ -14,8 +14,12 @@ HOW TO RUN:
 2. For compiling the executable for the lcs program
 > ./lcs <input-string1> <input-string2>
 
+- For lcs.cpp, the output will be printed on the terminal
+
 3. For compiling the executable for the floyd program
 > ./floyd <graph-file>
+
+- For floyd.cpp, the output can be accessed by the 'cat' command or by 'output.txt' directly
 
 4. For clearing the executables
 > make clean
